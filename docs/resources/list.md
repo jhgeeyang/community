@@ -10,6 +10,8 @@
 
 - [Convolutional Neural Networks](http://cs231n.github.io)
 
+- [Pytorch Tutorials](https://pytorch.org/tutorials/)
+
 ## Papers
 
 - [Subsurface Structure Analysis Using Computational Interpretation and Learning: A Visual Signal Processing Perspective.](https://ieeexplore.ieee.org/abstract/document/8312469/)
