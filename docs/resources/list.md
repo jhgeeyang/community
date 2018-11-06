@@ -9,6 +9,7 @@
 - [Variational Autoencoders from a probabilistic perspective](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 
 - [Convolutional Neural Networks](http://cs231n.github.io)
+- [Pytorch Tutorials](https://pytorch.org/tutorials/)
 
 ## Papers
 
